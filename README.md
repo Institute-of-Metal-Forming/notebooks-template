@@ -1,7 +1,7 @@
 # Notebooks Template
 
-[!IMPORTANT]
-Adapt the headline and description text to your needs.
+> [!IMPORTANT]
+> Adapt the headline and description text to your needs.
 
 This repo is a template for repositories that contain merely jupyter notebooks.
 Please create a new repository for each topic using this template to keep things small and simple (avoiding dependency conflicts).
@@ -30,8 +30,8 @@ uv add "package-name~=min-version"
 
 ## Contents
 
-[!IMPORTANT]
-List and explain here the purpose of each notebook.
+> [!IMPORTANT]
+> List and explain here the purpose of each notebook.
 
 ### `Example.ipynb`
 
@@ -41,5 +41,5 @@ This notebook contains just a stupid example.
 
 This repository is licensed under the terms of the [MIT License](LICENSE).
 
-[!IMPORTANT]
-Adapt the metadata in `pyproject.toml` to your needs.
+> [!IMPORTANT]
+> Adapt the metadata in `pyproject.toml` to your needs.
